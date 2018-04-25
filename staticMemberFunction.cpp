@@ -39,5 +39,9 @@ int main(){
     t2.showcode();
     t3.showcode();
 
+    t1.showcount();
+    t2.showcount();
+    t3.showcount();
+
     return 0;
 }
